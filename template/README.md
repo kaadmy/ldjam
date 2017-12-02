@@ -9,7 +9,13 @@
 
 ## Mechanics
 
-# Resources
+# Tools used
+
+- Engine: ???
+- 2D art: ???
+- 3D art: ???
+- Sound: ???
+- Music: ???
 
 # Credits
 

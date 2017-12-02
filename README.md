@@ -1,5 +1,5 @@
 
-Repository of all my Ludum Dare project sources.
+Archive of all my [Ludum Dare](https://ldjam.com) project sources.
 
 # License
 
